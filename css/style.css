@@ -1,0 +1,11 @@
+#navbar{
+  background-color: blue;
+  overflow:hidden;
+  position: relative;
+  display: block;
+  color: #fff;
+  right: 50%
+}
+#nav-cont{
+
+}
